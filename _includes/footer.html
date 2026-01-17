@@ -1,0 +1,14 @@
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          {% if site.footer.links %}
+            {% include social.html %}
+          {% endif %}
+          <div class="copyright">&copy; {% assign site_time = site.time | date: '%Y' %}{% if site.footer.since and site_time != site.footer.since %}{{ site.footer.since }} - {% endif %}{{ site_time }} {{ site.company }}. All rights reserved.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
