@@ -1,0 +1,12 @@
+.social {
+  display: block;
+  a {
+    color: inherit;
+    font-size: x-large;
+    padding: 10px;
+    display: inline-block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
