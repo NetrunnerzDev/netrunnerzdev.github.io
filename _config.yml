@@ -1,8 +1,6 @@
-baseurl:
+baseurl: /
 permalink: pretty
 company: Netrunnerz (Pty) Ltd
-phone:
-email:
 title: Netrunnerz
 favicon: /images/favicon.png
 
@@ -22,7 +20,7 @@ collections:
     output: true
     sort_by: weight
   team:
-    output: true
+    output: false
 
 defaults:
   - scope:
@@ -61,10 +59,10 @@ footer:
     - icon: "fab fa-fw fa-linkedin-in"
       url: https://linkedin.com/company/netrunnerz
     # X
-    - icon: "fab fa-fw fa-square-x-twitter"
+    - icon: "fab fa-fw fa-x-twitter"
       # url: https://x.com
     # Facebook
-    - icon: "fab fa-fw fa-square-facebook"
+    - icon: "fab fa-fw fa-facebook"
       # url: https://facebook.com
     # Truth
     - icon: "fab fa-fw fa-link"
