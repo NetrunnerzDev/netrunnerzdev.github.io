@@ -1,6 +1,6 @@
 ---
 title: "Networking & Connectivity"
-description: Design, deploy, and manage robust network infrastructures to ensure secure, reliable, and high-performance connectivity across your business.
+description: Professional network design and connectivity solutions including routers, VLANs, switches, and reliable business internet infrastructure.
 weight: 1
 ---
 
@@ -18,6 +18,6 @@ We provide end-to-end networking solutions, from planning and configuration to d
 - VLAN segmentation and network optimization
 - Firewall configuration and secure remote access (VPNs)
 - Router and switch setup and management
-- Troubleshooting and network monitoring
+- Troubleshooting
 
 > Reliable connectivity is the foundation of any successful business. We ensure your network is secure, scalable, and easy to manage.

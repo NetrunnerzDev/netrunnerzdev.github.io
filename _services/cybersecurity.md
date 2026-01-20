@@ -1,6 +1,6 @@
 ---
 title: "Cybersecurity & Patch Management"
-description: Protect your IT infrastructure with robust defensive cybersecurity measures and reliable patch and endpoint management.
+description: Cybersecurity solutions to protect your business, including firewalls, endpoint protection, patch management, and security best practices.
 weight: 4
 ---
 

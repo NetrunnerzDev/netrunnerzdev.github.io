@@ -1,6 +1,6 @@
 ---
 title: "Ongoing Support"
-description: Reliable IT support to keep your infrastructure running smoothly and address issues quickly as they arise.
+description: Reliable ongoing IT support and maintenance services to keep your systems secure, updated, and running smoothly.
 weight: 5
 ---
 

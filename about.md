@@ -1,7 +1,7 @@
 ---
 title: About
 layout: page
-description: Netrunnerz is a South African IT solutions company founded on experience, integrity, and a passion for cybersecurity. We help businesses secure, optimize, and manage their IT infrastructure with hands-on expertise and practical solutions.
+description: Learn about Netrunnerz, a South African IT solutions company founded on experience, integrity, and a strong focus on cybersecurity.
 bodyClass: page-about
 ---
 

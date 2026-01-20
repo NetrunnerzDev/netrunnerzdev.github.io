@@ -1,6 +1,6 @@
 ---
 title: "IT Strategy & Consulting"
-description: Plan, optimize, and implement IT strategies that align with your business objectives and future growth.
+description: Strategic IT consulting to plan, optimize, and implement scalable infrastructure that supports your business growth and objectives.
 weight: 3
 ---
 
