@@ -1,89 +1,39 @@
 ---
 title: About
 layout: page
-description: About
+description: Netrunnerz is a South African IT solutions company founded on experience, integrity, and a passion for cybersecurity. We help businesses secure, optimize, and manage their IT infrastructure with hands-on expertise and practical solutions.
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Netrunnerz is a South African IT solutions company founded on experience, integrity, and a passion for cybersecurity. We help businesses secure, optimize, and manage their IT infrastructure with hands-on expertise and practical solutions.
 
 ![About Us](/images/about.jpg)
 
-<!-- ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg) -->
+## Our Mission
 
-# Objectives
+At Netrunnerz, our mission is to provide businesses with IT solutions that are **secure, scalable, and easy to manage**. We combine decades of enterprise IT experience with cybersecurity expertise to deliver practical, reliable solutions that keep your business secure, productive, and efficient.
 
-Financial accounting and financial reporting are often used as synonyms.
+## Experience
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+With over **25 years of enterprise IT experience**, our founder has designed, deployed, and maintained IT infrastructure across multi-site offices, manufacturing environments, and corporate head offices. Our expertise includes:  
 
-## Relevance
+- **Enterprise network design and VLAN segmentation**  
+- **Server room planning, deployment, and management**  
+- **IT project leadership from planning to execution**  
+- **Security-focused administration, including firewalls, endpoint protection, and patch management**  
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+Our approach combines deep technical knowledge with a practical, hands-on methodology to ensure IT systems are **secure, reliable, and scalable**.
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+## Certifications & Tools
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Our solutions are backed by industry-recognized certifications and professional tools:  
 
-## Faithful Representation
+- MikroTik (MTCNA) – network routing and design  
+- GFI LanGuard – patch management and endpoint protection  
+- Offensive Security background – advanced defensive and cybersecurity expertise  
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Our Commitment
 
-## Enhancing Qualitative Characteristics
+We provide IT services combining **technical excellence, reliability, and long-term value**. Each solution is designed to be secure, maintainable, and aligned with your business goals.
 
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+> Helping businesses stay productive, secure, and prepared for the challenges of modern IT.

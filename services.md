@@ -1,12 +1,13 @@
 ---
 title: Services
 layout: services
-description: Services
+description: Netrunnerz delivers tailored solutions that secure, optimize, and scale your IT infrastructure. From networks and servers to cybersecurity and ongoing support, we ensure your systems run efficiently — so your business can thrive.
 intro_image: "images/services.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Comprehensive IT & Cybersecurity Solutions
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.  
+Netrunnerz delivers tailored solutions that secure, optimize, and scale your IT infrastructure.  
+From networks and servers to cybersecurity and ongoing support, we ensure your systems run efficiently — so your business can thrive.
