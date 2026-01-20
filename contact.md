@@ -8,8 +8,10 @@ Not sure what you need yet? Contact us and we’ll help you plan the right IT or
 
 ![About Us](/images/contact.jpg)
 
+## Send us a message via the form below  
+
 <form
-  action="https://formspree.io/f/{FORM_ID}"
+  action="https://formspree.io/f/mjggeqvb"
   class="fs-form"
   target="_top"
   method="POST"
@@ -31,6 +33,7 @@ Not sure what you need yet? Contact us and we’ll help you plan the right IT or
       class="fs-textarea"
       id="message"
       name="message"
+      style="height: 180px;"
       required
     ></textarea>
     <p class="fs-description">What would you like to discuss?</p>
@@ -39,3 +42,5 @@ Not sure what you need yet? Contact us and we’ll help you plan the right IT or
     <button class="fs-button" type="submit">Send Message</button>
   </div>
 </form>
+
+## You can also reach us directly

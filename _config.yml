@@ -58,12 +58,12 @@ footer:
     # LinkedIn
     - icon: "fab fa-fw fa-linkedin-in"
       url: https://linkedin.com/company/netrunnerz
-    # X
-    - icon: "fab fa-fw fa-x-twitter"
-      # url: https://x.com
     # Facebook
     - icon: "fab fa-fw fa-facebook"
-      # url: https://facebook.com
+      url: https://www.facebook.com/Netrunnerz
+    # X
+    - icon: "fab fa-fw fa-x-twitter"
+      url: https://x.com/NetrunnerzZA
     # Truth
     - icon: "fab fa-fw fa-link"
       # url:
